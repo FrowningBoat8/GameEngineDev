@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 10c18a350bf99ba459f8a1617df32432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8789137647691664507
+    second: TZ_UAS_UI_Bars2020_b1_Outer
+  - first:
+      213: 3953295588740157709
+    second: TZ_UAS_UI_Bars2020_b1_Inner
+  - first:
+      213: -2355528736283773963
+    second: TZ_UAS_UI_Bars2020_b1_bar
+  - first:
+      213: -8679644252919144835
+    second: TZ_UAS_UI_Bars2020_b2_Outer
+  - first:
+      213: -3037206015866760312
+    second: TZ_UAS_UI_Bars2020_b2_Inner
+  - first:
+      213: 6460007587052470335
+    second: TZ_UAS_UI_Bars2020_b2_bar
+  - first:
+      213: 3772122841495526868
+    second: TZ_UAS_UI_Bars2020_b3_outer
+  - first:
+      213: 4477451378797553696
+    second: TZ_UAS_UI_Bars2020_b3_Inner
+  - first:
+      213: -363168020527924746
+    second: TZ_UAS_UI_Bars2020_b3_bar
+  - first:
+      213: 5243287833784226385
+    second: TZ_UAS_UI_Bars2020_b4_outer
+  - first:
+      213: -4701643507526607476
+    second: TZ_UAS_UI_Bars2020_b4_inner
+  - first:
+      213: -5104745791584022013
+    second: TZ_UAS_UI_Bars2020_b4_bar
+  - first:
+      213: -7667345195900871606
+    second: TZ_UAS_UI_Bars2020_b5_outer
+  - first:
+      213: 6349627350626776499
+    second: TZ_UAS_UI_Bars2020_b5_inner
+  - first:
+      213: -5462211014371200118
+    second: TZ_UAS_UI_Bars2020_b5_innerSmall
+  - first:
+      213: 2628916096559382190
+    second: TZ_UAS_UI_Bars2020_b5_bar
+  - first:
+      213: 6455437770761580394
+    second: TZ_UAS_UI_Bars2020_b5_barSmall
+  - first:
+      213: -3099322223769590873
+    second: TZ_UAS_UI_Bars2020_b5_cover
+  - first:
+      213: 1659057029402692568
+    second: TZ_UAS_UI_Bars2020_b6_outer
+  - first:
+      213: -6462177452262148721
+    second: TZ_UAS_UI_Bars2020_b6_outerSmall
+  - first:
+      213: -3190093968894916296
+    second: TZ_UAS_UI_Bars2020_b6_inner
+  - first:
+      213: -8958091438726567680
+    second: TZ_UAS_UI_Bars2020_b6_innerSmall
+  - first:
+      213: -9037974350408909061
+    second: TZ_UAS_UI_Bars2020_b6_bar
+  - first:
+      213: -1027041747861142229
+    second: TZ_UAS_UI_Bars2020_b6_barSmall
+  - first:
+      213: 3181360228437565565
+    second: TZ_UAS_UI_Bars2020_b6_cover
+  - first:
+      213: 3530095254367640922
+    second: TZ_UAS_UI_Bars2020_b6_coverSmall
+  - first:
+      213: -7692603082273990040
+    second: TZ_UAS_UI_Bars2020_b2_cover
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b1_Outer
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 716
+        width: 514
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 45, y: 12, z: 45, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583735350e5b60680800000000000000
+      internalID: -8789137647691664507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b1_Inner
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 732
+        width: 478
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d9fa746decd630800000000000000
+      internalID: 3953295588740157709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b1_bar
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 726
+        width: 478
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b49f281b7f4fd0800000000000000
+      internalID: -2355528736283773963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b3_outer
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 510
+        width: 517
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 30, z: 32, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5a702db5495430800000000000000
+      internalID: 3772122841495526868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b3_Inner
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 518
+        width: 505
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028af447e4a132e30800000000000000
+      internalID: 4477451378797553696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b3_bar
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 518
+        width: 501
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b6a60c94c5faf0800000000000000
+      internalID: -363168020527924746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b4_outer
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 408
+        width: 514
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15216d33186e3c840800000000000000
+      internalID: 5243287833784226385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b4_inner
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 416
+        width: 501
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dda59e32860ceb0800000000000000
+      internalID: -4701643507526607476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b4_bar
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 416
+        width: 501
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d6f7afbc4829b0800000000000000
+      internalID: -5104745791584022013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_outer
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 280
+        width: 516
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 32, z: 10, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd70cea2e189590800000000000000
+      internalID: -7667345195900871606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_inner
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 317
+        width: 489
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b6320f686e1850800000000000000
+      internalID: 6349627350626776499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_innerSmall
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 282
+        width: 251
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83bd20c5045234b0800000000000000
+      internalID: -5462211014371200118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_bar
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 315
+        width: 494
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae7abfd249cb7420800000000000000
+      internalID: 2628916096559382190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_barSmall
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 279
+        width: 255
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f22eb3372569950800000000000000
+      internalID: 6455437770761580394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b5_cover
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 317
+        width: 488
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a36dbfbbdefcf4d0800000000000000
+      internalID: -3099322223769590873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_outer
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 154
+        width: 517
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db89a30497260710800000000000000
+      internalID: 1659057029402692568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_outerSmall
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 108
+        width: 241
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85306268dbb156a0800000000000000
+      internalID: -6462177452262148721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_inner
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 169
+        width: 496
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83907e7ef628ab3d0800000000000000
+      internalID: -3190093968894916296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_innerSmall
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 113
+        width: 233
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092c396c477ea380800000000000000
+      internalID: -8958091438726567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_bar
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 169
+        width: 494
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef8caa63aa29280800000000000000
+      internalID: -9037974350408909061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_barSmall
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 133
+        width: 229
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258d39c8f63fb1f0800000000000000
+      internalID: -1027041747861142229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_cover
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 162
+        width: 508
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 14, z: 15, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a39ea546762c20800000000000000
+      internalID: 3181360228437565565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TZ_UAS_UI_Bars2020_b6_coverSmall
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 119
+        width: 233
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d10eb3eea6df030800000000000000
+      internalID: 3530095254367640922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
